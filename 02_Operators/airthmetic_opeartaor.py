@@ -27,3 +27,5 @@ print("The floor quotient of a and b is :",a//b) #returns floor value
 a=20
 b=10
 print("The remainder of a and b is :",a%b) #returns remainder value
+
+
