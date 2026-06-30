@@ -1,0 +1,9 @@
+list=[2,3,4,5,6,]
+target=9
+for i in list:
+    if target not in list:
+        print("not found")
+        break
+    else:
+        print("found")
+        break
