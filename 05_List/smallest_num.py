@@ -4,3 +4,5 @@ for i in list:
     if i<smallest:
         smallest=i
 print("The smallest number is:", smallest)
+
+
